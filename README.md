@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahadatu Larabu
+- 👋 Hi, I’m Sahadatu Larabu, you can just call me Sahada.
 - 👀 I’m interested in Data Science more specifically Machine learning.
 - 💞️ I’m looking to collaborate on Data Science projects in areas of Finance, Economics and Health
 - 🌱 I’m currently learning data visualisation using D3.
